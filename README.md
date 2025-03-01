@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, ich bin Christian Riedel
 
-<!--
-**christian-criedel/christian-criedel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Über mich
+- **Informatik-Student**  
+- **Python Developer | Software Engineer**  
+- **Fokus:** Data Structures, Algorithms, Web Development, Automatisierung  
+- **Ich arbeite aktuell an:** LeetCode-Problemsets & Backend-Entwicklung  
 
-Here are some ideas to get you started:
+## Meine Projekte
+- **Schachspiel mit Python** – Ein Schachspiel mit eigener Spiellogik (KI-Integration in Planung)  
+- **Web-Automatisierung mit Selenium** – Entwicklung eines Skripts zur Automatisierung von Web-Interaktionen und Datenverarbeitung  
+- **Telegram Bots** – Bots zur Automatisierung von Nachrichten & Services  
+- **Campus-Buch-Downloader** – Automatisiertes Herunterladen von Uni-Büchern  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Meine Skills
+- **Programmiersprachen:** Python, Java, C++ (Grundkenntnisse)  
+- **Webentwicklung:** HTML, CSS, JavaScript, PHP  
+- **Datenbanken:** MySQL, PostgreSQL, T-SQL  
+- **Technologien:** Selenium, Git, Telegram-Bots, Automatisierung  
+
+## Kontakt
+📫 **Erreichbar über:** [LinkedIn](https://www.linkedin.com/in/christian-criedel/) | [GitHub](https://github.com/christian-criedel)
